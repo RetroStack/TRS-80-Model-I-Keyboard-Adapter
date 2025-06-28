@@ -21,8 +21,9 @@ In the "Latest" folder, you'll find the most up-to-date design files, including:
 
 This project has been implemented using KiCAD 9. The KiCAD project files are included in this repository.
 
-![E1 Replica Front](/Latest/TRS80_Model_I_Keyboard_Adapter_3D_Front.png)
-![E1 Replica Back](/Latest/TRS80_Model_I_Keyboard_Adapter_3D_Back.png)
+![Front](/Latest/TRS80_Model_I_Keyboard_Adapter_3D_Front.png)
+![Back](/Latest/TRS80_Model_I_Keyboard_Adapter_3D_Back.png)
+                TRS80_Model_I_Keyboard_Adpter_3D_Back
 
 ## Main TRS-80 Model 1 Repository
 
